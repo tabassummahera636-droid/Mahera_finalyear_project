@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv313/
+.env
+
+# Backend runtime
+backend/.venv/
+backend/.venv313/
+backend/app_data.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Jupyter / temp
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
